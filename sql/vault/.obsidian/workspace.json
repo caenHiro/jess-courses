@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "6b9f4e75d2eaaa4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "971a1463fca5236b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57f820ac531fc022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Ejercicios/02_Consultas_Intermedias.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02_Consultas_Intermedias"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94602f934f7a8bf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "760b84c3e5c44b42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb481722a5cc5e2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "ffe5eb7ec4a9fd57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "f13c65eef5d75596",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b6dc612c0ff46b9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "80436da28cc3979d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4bbecd62b2be694",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03_Ejercicios/02_Consultas_Intermedias.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 02_Consultas_Intermedias"
+            }
+          },
+          {
+            "id": "7302069dccb62fc1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03_Ejercicios/02_Consultas_Intermedias.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 02_Consultas_Intermedias"
+            }
+          },
+          {
+            "id": "203716f00ec24bf3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "dfc3b6d1d5d34085",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "6b517b01abacab82",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03_Ejercicios/02_Consultas_Intermedias.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 02_Consultas_Intermedias"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "57f820ac531fc022",
+  "lastOpenFiles": [
+    "03_Ejercicios/01_Consultas_Basicas.md",
+    "03_Ejercicios/01_Consultas.md",
+    "03_Ejercicios/02_Consultas_Intermedias.md",
+    "01_Conceptos/06_Consultas_SELECT_y_Funciones.md",
+    "03_Ejercicios/00_Descripcion_BD.md",
+    "02_Setup/02_DBeaver.md",
+    "02_Setup/01_Docker_MySQL.md",
+    "01_Conceptos/03_DML.md",
+    "01_Conceptos/02_DDL.md",
+    "01_Conceptos/05_Disparadores.md",
+    "01_Conceptos/04_Procedimientos_Almacenados.md",
+    "01_Conceptos/01_Fundamentos_BD.md"
+  ]
+}
